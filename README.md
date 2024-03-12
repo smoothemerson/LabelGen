@@ -22,7 +22,3 @@ This project was developed with the following technologies:
 - Pre-commit
 - Virtualenv
 - Git and GitHub
-
-## 💻 Project
-
-- Project given by Rocketseat in NLW Expert Python Trail
